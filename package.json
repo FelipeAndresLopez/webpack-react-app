@@ -1,5 +1,5 @@
 {
-  "name": "curso-webpack-react",
+  "name": "webpack-react-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -33,13 +33,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/platzi/curso-webpack-react.git"
+    "url": "git@github.com:FelipeAndresLopez/webpack-react-app.git"
   },
   "keywords": [],
   "author": "Felipe Andrés López <felipeandreslopez91@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/platzi/curso-webpack-react/issues"
+    "url": "https://github.com/FelipeAndresLopez/webpack-react-app/issues"
   },
-  "homepage": "https://github.com/platzi/curso-webpack-react#readme"
+  "homepage": "https://github.com/FelipeAndresLopez/webpack-react-app#readme"
 }
