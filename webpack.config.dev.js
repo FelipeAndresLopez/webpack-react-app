@@ -46,7 +46,7 @@ module.exports = {
     })
   ],
   devServer: {
-    contentBase: path.join(__dirname, 'bundle'),
+    contentBase: path.join(__dirname, 'dist'),
     compress: true,
     port: 3006
   }
